@@ -15,7 +15,6 @@ class Request {
             case "POST":
                 self::postRequest();
                 break;
-
         }
     }
 
